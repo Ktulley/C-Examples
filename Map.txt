@@ -1,0 +1,6 @@
+5 5
+o o G o o 
+M P o o M 
+M C o o o 
+o o o o M 
+C o o o o 
